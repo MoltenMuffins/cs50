@@ -1,0 +1,4 @@
+cs50
+check50
+help50
+submit50

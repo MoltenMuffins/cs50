@@ -1,0 +1,6 @@
+.vscode/
+
+# Ignore compiled code in the problem sets
+pset*/*/*
+!pset*/*/*.c
+!pset*/*/*.md
