@@ -75,6 +75,7 @@ Design and implement a program, `substitution`, that encrypts messages using a s
 * After outputting ciphertext, you should print a newline. Your program should then exit by returning `0` from `main`.
 
 ## Walkthrough
+[![Link to walkthrough video](https://img.youtube.com/vi/cXAoZAsgxJ4/0.jpg)](https://youtu.be/cXAoZAsgxJ4)
 
 ## How to Test Your Code
 
