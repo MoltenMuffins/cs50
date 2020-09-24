@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 
 """Script for converting html in a given link to markdown
 using the http://heckyesmarkdown.com/ API"""
